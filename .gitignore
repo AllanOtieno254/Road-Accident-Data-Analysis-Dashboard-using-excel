@@ -1,0 +1,25 @@
+# Ignore Excel backup files
+*.xlk
+*.xlsx~
+*.xlsb~
+*.xlsm~
+*.xls~
+
+# Ignore temporary files
+~$*
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore Windows system files
+Thumbs.db
+
+# Ignore Python-related files (if any scripts are included)
+*.pyc
+__pycache__/
+
+# Ignore node_modules if using Node.js or other packages
+node_modules/
+
+# Ignore environment files
+.env
