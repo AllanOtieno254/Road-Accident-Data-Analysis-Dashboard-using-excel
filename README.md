@@ -49,4 +49,20 @@ Special thanks to the individuals and organizations that contributed to the road
 
 ## Contact
 For any questions, please reach out to [Allan Otieno Akumu](allanotieno2001@gmail.com).[+254 740782619]
+![dashboard image](https://github.com/user-attachments/assets/5ffed694-62db-421f-9c36-bdb243a7f487)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
