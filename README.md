@@ -1,5 +1,5 @@
 # Road Accident Data Analysis Dashboard
-
+![uk road accident dashboard](https://github.com/user-attachments/assets/f328306c-32f9-4b5c-9991-ae6286b66182)
 ## Overview
 This repository contains the **Road Accident Data Analysis Dashboard**, an Excel-based tool designed to analyze and visualize road accident data. The dashboard offers insights into key performance indicators (KPIs), monthly trends, road types, and road surface conditions, aiding in data-driven decision-making for road safety management.
 
